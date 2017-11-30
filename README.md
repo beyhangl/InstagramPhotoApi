@@ -12,5 +12,5 @@ pip3 install instaloader
 
 After that clone the repo and run like this
 
-python image_downloader.py -i 0 -p /home/kafein/Projeler/InstaImagePrepare/USERNAME
+python main.py -i 0 -p /home/kafein/Projeler/InstaImagePrepare/USERNAME
 
